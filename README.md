@@ -43,7 +43,7 @@
     - Щракнете върху бутона Home Assistant My по-долу, за да отворите добавката на вашия Home Помощник екземпляр.
 
         <a href="https://my.home-assistant.io/redirect/supervisor_addon/?addon=a0d7b954_sonweb&repository_url=https%3A%2F%2Fgithub.com%2Fhassio-addons%2Frepository">
-        <img align="center" src="..\..\Statik\Buttons\button ADD-ON ON.svg" alt="Към проекта" >
+        <img align="center" src="https://raw.githubusercontent.com/Bacard1/icon-set-project/9e7e05e78747dc0ecaa404a33cbe9e5d264ad003/button/button%20ADD-ON%20ON.svg" alt="Към проекта" >
         </a>
         
 
@@ -62,7 +62,7 @@
 - **Инсталиране:** интеграцията е също така лесна. Щтракнете върху битонут по долу:        
 
     <a href="https://my.home-assistant.io/redirect/config_flow_start?domain=tasmota">
-    <img align="center" src="\Statik\Buttons\button ADD INTEGRATION TO.svg" alt="Към проекта" >
+    <img align="center" src="https://raw.githubusercontent.com/Bacard1/icon-set-project/9e7e05e78747dc0ecaa404a33cbe9e5d264ad003/button/button%20ADD%20INTEGRATION%20TO.svg" alt="Към проекта" >
     </a>
 
     ⚠️ Тази интеграция ще свърже изцяло, Home Assistant със всички устройства добавени в Добавката TASMOTA . Рестартирайте Home Assistant и се радвайте на контролът върху устройтвата си.
