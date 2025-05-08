@@ -2,6 +2,8 @@
 
 [![PayPal дарение](https://img.shields.io/badge/PayPal-Дари-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
 ![Скрипт](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
+[![Български](https://img.shields.io/badge/Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)
+
 
 ## 📦 Съдържание
 
