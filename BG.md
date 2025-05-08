@@ -1,3 +1,5 @@
+![BANNER](/IMG/banner.png)
+
 # 🤖 СТАР "SONOFF" С НОВА TASMOTA + HASS ИНТЕГРАЦИЯ
 
 [![PayPal дарение](https://img.shields.io/badge/PayPal-Дари-синьо?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
