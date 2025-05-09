@@ -6,6 +6,22 @@
 ![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
 [![Bulgarian](https://img.shields.io/badge/Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)
 
+This repository provides a complete and ready-to-use configuration for integrating TASMOTA-powered smart switches into Home Assistant. It includes automation examples, MQTT configuration tips, and YAML templates designed to simplify the setup and control of your smart switches.
+
+The goal of this project is to offer energy-efficient, easy-to-configure, and reliable automation for everyday smart home scenarios. Whether you're turning on lights, managing appliances, or just learning how to use TASMOTA with Home Assistant, this repository gives you a solid foundation.
+
+📌 Features:
+
+Hass-ready YAML scripts for switch control
+
+Automation for device states
+
+MQTT integration setup
+
+Energy monitoring examples
+
+Bulgarian and English support
+
 ## 📦 Contents
 
 - [🤖 OLD "SONOFF" WITH NEW TASMOTA + HASS INTEGRATION](#-old-sonoff-with-new-tasmota--hass-integration)
