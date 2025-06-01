@@ -2,12 +2,19 @@
 
 # 🤖 START "SONOFF" MIT NEUER TASMOTA + HASS INTEGRATION  
 
-[![Home Assistant](https://img.shields.io/badge/🏠_Home_Assistant-41BDF5?logo=homeassistant)](https://www.home-assistant.io/) [![Spenden via PayPal](https://img.shields.io/badge/PayPal-Spenden-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)  
-![Skript](https://img.shields.io/badge/logo-yaml-green?logo=yaml)  
-[![Bulgarisch](https://img.shields.io/badge/BG_Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)  
-[![Deutsch](https://img.shields.io/badge/DE_Deutsch-Sprache-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/de)](DE.md)  
-[![Englisch](https://img.shields.io/badge/EN_Englisch-Sprache-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/en)](README.md)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?color=ff00d8)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/Bacard1/TASMOTA-switch.svg?color=ff00d8)
+[![hacs_badge](https://img.shields.io/badge/HACS-2025.5.3-orange.svg?color=ff00d8)](https://github.com/hacs/integration)
 
+[![Home Assistant](https://img.shields.io/badge/.-HOME_ASSISTANT-blue?logo=homeassistant)](https://www.home-assistant.io/) 
+[![Donate via PayPal](https://img.shields.io/badge/PayPal-DONATE-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
+![Script](https://img.shields.io/badge/Script-YAML-blue?logo=yaml)
+
+[![Български](https://img.shields.io/badge/BG-ЕЗИК-gree?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg
+)](BG.md)
+[![Deutch](https://img.shields.io/badge/DE-SPRACHE-gree?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg
+)](DE.md)
+[![English](https://img.shields.io/badge/EN-LANGUAGE-gree?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](README.md)
 Dieses Repository bietet eine vollständig vorbereitete und einfach zu verwendende Konfiguration zur Integration von Smart-Schaltern mit TASMOTA in Home Assistant. Enthalten sind Beispiele für Automatisierungen, MQTT-Einstellungen und YAML-Vorlagen, die die Verwaltung Ihrer Smart-Geräte erleichtern.  
 
 Ziel des Projekts ist es, eine energieeffiziente, einfach zu konfigurierende und zuverlässige Automatisierung für alltägliche Situationen im Smart Home bereitzustellen.  
