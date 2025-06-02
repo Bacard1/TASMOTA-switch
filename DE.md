@@ -15,6 +15,7 @@
 [![Deutch](https://img.shields.io/badge/DE-SPRACHE-gree?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg
 )](DE.md)
 [![English](https://img.shields.io/badge/EN-LANGUAGE-gree?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](README.md)
+
 Dieses Repository bietet eine vollständig vorbereitete und einfach zu verwendende Konfiguration zur Integration von Smart-Schaltern mit TASMOTA in Home Assistant. Enthalten sind Beispiele für Automatisierungen, MQTT-Einstellungen und YAML-Vorlagen, die die Verwaltung Ihrer Smart-Geräte erleichtern.  
 
 Ziel des Projekts ist es, eine energieeffiziente, einfach zu konfigurierende und zuverlässige Automatisierung für alltägliche Situationen im Smart Home bereitzustellen.  
